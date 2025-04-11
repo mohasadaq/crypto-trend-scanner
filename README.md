@@ -13,7 +13,7 @@ A real-time cryptocurrency trend analysis tool that provides technical analysis 
 
 ## Live Demo
 
-Visit the live version at: [https://yourusername.github.io/crypto-trend-scanner](https://yourusername.github.io/crypto-trend-scanner)
+Visit the live version at: [https://yourusername.github.io/crypto-trend-scanner](https://mohasadaq.github.io/crypto-trend-scanner)
 
 ## Setup
 
